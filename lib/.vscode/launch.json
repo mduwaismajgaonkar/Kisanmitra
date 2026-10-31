@@ -1,0 +1,12 @@
+   {
+     "version": "0.2.0",
+     "configurations": [
+       {
+         "name": "KisanMitra (Chrome, port 5000)",
+         "request": "launch",
+         "type": "dart",
+         "deviceId": "chrome",
+         "toolArgs": ["--web-port=5000"]
+       }
+     ]
+   }
